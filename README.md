@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nor1x
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning web dev (basics)
+- 💞️ I’m looking to collaborate on "not yet"
+- 📫 How to reach me abdenour.p8@gmail.com
